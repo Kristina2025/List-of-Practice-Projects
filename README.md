@@ -6,8 +6,8 @@
 
 | No | Project Name| Level | Github Repo |  Completed
 |-----------|-----------|-----------| -----------| -----------|
-| 1 | Social links profile | Newbie| TBD |  - []  |
-| 2 | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 |  Row 1 Col 4 |
+| 1 | Social links profile | Newbie| TBD |  &#9744;   |
+| 2 | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 |  U+2705 |
 | 3 | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 4 |  Row 1 Col 4 |
 | 4 | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 |  Row 1 Col 4 |
 | 5 | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 4 |  Row 1 Col 4 |

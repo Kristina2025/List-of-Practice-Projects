@@ -168,76 +168,76 @@
 
 | No | Project Name| Technologies Used | Github Repo |  Completed
 |-----------|-----------|-----------| -----------| -----------|
-| 1 | TBD | TBD| TBD | ✅ |
-| 2 | TBD | TBD | TBD | ❌ |
-| 3 | TBD| TBD | TBD | ❌ |
-| 4 | TBD | TBD | TBD | ❌ |
-| 5 | TBD | TBD | TBD | ❌ |
-| 6 | TBD | TBD | TBD | ❌ |
-| 7 | TBD| TBD | TBD | ❌ |
-| 8 | TBD | TBD | TBD | ❌ |
-| 9 | TBD | TBD | TBD | ❌ |
-| 10 | TBD | TBD | TBD | ❌ |
-| 11 | TBD | TBD| TBD | ✅ |
-| 12 | TBD | TBD | TBD | ❌ |
+| 1 | Band Name Generator | TBD| TBD | ✅ |
+| 2 | Tip Calculator | TBD | TBD | ❌ |
+| 3 | Treasure Island| TBD | TBD | ❌ |
+| 4 | Rock Paper Scissors | TBD | TBD | ❌ |
+| 5 | Password Generator | TBD | TBD | ❌ |
+| 6 | Escaping the Maze | TBD | TBD | ❌ |
+| 7 | Hangman| TBD | TBD | ❌ |
+| 8 | Ceasar Cipher | TBD | TBD | ❌ |
+| 9 | Secret Auction | TBD | TBD | ❌ |
+| 10 | Calculator | TBD | TBD | ❌ |
+| 11 | Blackjack | TBD| TBD | ✅ |
+| 12 | Number Guessing Game | TBD | TBD | ❌ |
 | 13 | TBD| TBD | TBD | ❌ |
-| 14 | TBD | TBD | TBD | ❌ |
-| 15 | TBD | TBD | TBD | ❌ |
-| 16 | TBD | TBD | TBD | ❌ |
-| 17 | TBD| TBD | TBD | ❌ |
-| 18 | TBD | TBD | TBD | ❌ |
-| 19 | TBD | TBD | TBD | ❌ |
-| 20 | TBD | TBD | TBD | ❌ |
-| 21 | TBD | TBD| TBD | ✅ |
-| 22 | TBD | TBD | TBD | ❌ |
-| 23 | TBD| TBD | TBD | ❌ |
-| 24 | TBD | TBD | TBD | ❌ |
-| 25 | TBD | TBD | TBD | ❌ |
-| 26 | TBD | TBD | TBD | ❌ |
-| 27 | TBD| TBD | TBD | ❌ |
-| 28 | TBD | TBD | TBD | ❌ |
-| 29 | TBD | TBD | TBD | ❌ |
+| 14 | Higher Lower Game | TBD | TBD | ❌ |
+| 15 | Coffee Machine | TBD | TBD | ❌ |
+| 16 | Coffee Machine OOP | TBD | TBD | ❌ |
+| 17 | Hirst Painting | TBD | TBD | ❌ |
+| 18 | Spirograph | TBD | TBD | ❌ |
+| 19 | Etch-A-Sketch App | TBD | TBD | ❌ |
+| 20 | Snake Game | TBD | TBD | ❌ |
+| 21 | Pong | TBD| TBD | ✅ |
+| 22 | Arcade Game | TBD | TBD | ❌ |
+| 23 | Turtle Crossing Capstone| TBD | TBD | ❌ |
+| 24 | Mail Merge | TBD | TBD | ❌ |
+| 25 | US States Game | TBD | TBD | ❌ |
+| 26 | NATO Alphabet | TBD | TBD | ❌ |
+| 27 | Miles to Km Converter | TBD | TBD | ❌ |
+| 28 | Pomodoro GUI | TBD | TBD | ❌ |
+| 29 | Password Manager | TBD | TBD | ❌ |
 | 30 | TBD | TBD | TBD | ❌ |
-| 31 | TBD | TBD| TBD | ✅ |
-| 32 | TBD | TBD | TBD | ❌ |
-| 33 | TBD| TBD | TBD | ❌ |
-| 34 | TBD | TBD | TBD | ❌ |
-| 35 | TBD | TBD | TBD | ❌ |
-| 36 | TBD | TBD | TBD | ❌ |
-| 37 | TBD| TBD | TBD | ❌ |
-| 38 | TBD | TBD | TBD | ❌ |
-| 39 | TBD | TBD | TBD | ❌ |
-| 40 | TBD | TBD | TBD | ❌ |
-| 41 | TBD | TBD| TBD | ✅ |
-| 42 | TBD | TBD | TBD | ❌ |
-| 43 | TBD| TBD | TBD | ❌ |
-| 44 | TBD | TBD | TBD | ❌ |
-| 45 | TBD | TBD | TBD | ❌ |
-| 46 | TBD | TBD | TBD | ❌ |
-| 47 | TBD| TBD | TBD | ❌ |
-| 48 | TBD | TBD | TBD | ❌ |
-| 49 | TBD | TBD | TBD | ❌ |
-| 50 | TBD | TBD | TBD | ❌ |
-| 51 | TBD | TBD| TBD | ✅ |
-| 52 | TBD | TBD | TBD | ❌ |
-| 53 | TBD| TBD | TBD | ❌ |
+| 31 | Flash Card App | TBD| TBD | ✅ |
+| 32 | Automated Birthday Wisher | TBD | TBD | ❌ |
+| 33 | ISS Overhead Notifier| TBD | TBD | ❌ |
+| 34 | GUI Quiz App | TBD | TBD | ❌ |
+| 35 | Check If It Will Rain | TBD | TBD | ❌ |
+| 36 | Trading News Alert | TBD | TBD | ❌ |
+| 37 | Habit Tracking Project| TBD | TBD | ❌ |
+| 38 | Workout Tracking Using Google Sheets | TBD | TBD | ❌ |
+| 39 | Flight Deal Finder | TBD | TBD | ❌ |
+| 40 | Flight Club | TBD | TBD | ❌ |
+| 41 | Movie Ranking | TBD| TBD | ✅ |
+| 42 | Birthday Invite Website | TBD | TBD | ❌ |
+| 43 | Colour Vocab Website| TBD | TBD | ❌ |
+| 44 | Motivation Poster Website | TBD | TBD | ❌ |
+| 45 | 100 Movies You Must Watch | TBD | TBD | ❌ |
+| 46 | Create a Spotify Playlist | TBD | TBD | ❌ |
+| 47 | Amazon Price Tracker | TBD | TBD | ❌ |
+| 48 | Create an Automated Game Playing Bot | TBD | TBD | ❌ |
+| 49 | Automating Exercise Routine at Gym | TBD | TBD | ❌ |
+| 50 | Auto Tinder Swiping Bot | TBD | TBD | ❌ |
+| 51 | Twitter Complaint Bot | TBD| TBD | ✅ |
+| 52 | Instagram Follower Bot | TBD | TBD | ❌ |
+| 53 | Web Scrapping Capstone| TBD | TBD | ❌ |
 | 54 | TBD | TBD | TBD | ❌ |
-| 55 | TBD | TBD | TBD | ❌ |
-| 56 | TBD | TBD | TBD | ❌ |
-| 57 | TBD| TBD | TBD | ❌ |
-| 58 | TBD | TBD | TBD | ❌ |
-| 59 | TBD | TBD | TBD | ❌ |
-| 60 | TBD | TBD | TBD | ❌ |
-| 61 | TBD | TBD| TBD | ✅ |
-| 62 | TBD | TBD | TBD | ❌ |
-| 63 | TBD| TBD | TBD | ❌ |
-| 64 | TBD | TBD | TBD | ❌ |
+| 55 | Higher and Lower URLs | TBD | TBD | ❌ |
+| 56 | Name Card Final Project | TBD | TBD | ❌ |
+| 57 | Blog Capstone| TBD | TBD | ❌ |
+| 58 | A Startup Website for TinDog | TBD | TBD | ❌ |
+| 59 | Blog Capstone 2 | TBD | TBD | ❌ |
+| 60 | Post Requests with Flask | TBD | TBD | ❌ |
+| 61 | Building Advanced Forms | TBD| TBD | ✅ |
+| 62 | Coffee and Wifi | TBD | TBD | ❌ |
+| 63 | Virtual Bookshelf | TBD | TBD | ❌ |
+| 64 | Top 10 Movies Website | TBD | TBD | ❌ |
 | 65 | TBD | TBD | TBD | ❌ |
-| 66 | TBD | TBD | TBD | ❌ |
-| 67 | TBD| TBD | TBD | ❌ |
+| 66 | Build Your Own API | TBD | TBD | ❌ |
+| 67 | Blog Capstone Project 3| TBD | TBD | ❌ |
 | 68 | TBD | TBD | TBD | ❌ |
-| 69 | TBD | TBD | TBD | ❌ |
-| 70 | TBD | TBD | TBD | ❌ |
+| 69 | Blog Capstone Project 4 | TBD | TBD | ❌ |
+| 70 | College Major vs. Your Salary | TBD | TBD | ❌ |
 | 71 | TBD | TBD| TBD | ✅ |
 | 72 | TBD | TBD | TBD | ❌ |
 | 73 | TBD| TBD | TBD | ❌ |
@@ -248,23 +248,23 @@
 | 78 | TBD | TBD | TBD | ❌ |
 | 79 | TBD | TBD | TBD | ❌ |
 | 80 | TBD | TBD | TBD | ❌ |
-| 81 | TBD | TBD| TBD | ✅ |
-| 82 | TBD | TBD | TBD | ❌ |
-| 83 | TBD| TBD | TBD | ❌ |
-| 84 | TBD | TBD | TBD | ❌ |
-| 85 | TBD | TBD | TBD | ❌ |
-| 86 | TBD | TBD | TBD | ❌ |
-| 87 | TBD| TBD | TBD | ❌ |
-| 88 | TBD | TBD | TBD | ❌ |
-| 89 | TBD | TBD | TBD | ❌ |
-| 90 | TBD | TBD | TBD | ❌ |
-| 91 | TBD | TBD| TBD | ✅ |
-| 92 | TBD | TBD | TBD | ❌ |
-| 93 | TBD| TBD | TBD | ❌ |
-| 94 | TBD | TBD | TBD | ❌ |
-| 95 | TBD | TBD | TBD | ❌ |
-| 96 | TBD | TBD | TBD | ❌ |
-| 97 | TBD| TBD | TBD | ❌ |
-| 98 | TBD | TBD | TBD | ❌ |
-| 99 | TBD | TBD | TBD | ❌ |
-| 100 | TBD | TBD | TBD | ❌ |
+| 81 | Predict House Prices | TBD| TBD | ✅ |
+| 82 | Professional Portfolio Project 1 | TBD | TBD | ❌ |
+| 83 | Professional Portfolio Project 2| TBD | TBD | ❌ |
+| 84 | Professional Portfolio Project 3 | TBD | TBD | ❌ |
+| 85 | Professional Portfolio Project 4 | TBD | TBD | ❌ |
+| 86 | Professional Portfolio Project 5 | TBD | TBD | ❌ |
+| 87 | Professional Portfolio Project 6| TBD | TBD | ❌ |
+| 88 | Professional Portfolio Project 7 | TBD | TBD | ❌ |
+| 89 | Professional Portfolio Project 8 | TBD | TBD | ❌ |
+| 90 | Professional Portfolio Project 9 | TBD | TBD | ❌ |
+| 91 | Professional Portfolio Project 10 | TBD| TBD | ✅ |
+| 92 | Professional Portfolio Project 11 | TBD | TBD | ❌ |
+| 93 | Professional Portfolio Project 12| TBD | TBD | ❌ |
+| 94 | Professional Portfolio Project 13 | TBD | TBD | ❌ |
+| 95 | Professional Portfolio Project 14 | TBD | TBD | ❌ |
+| 96 | Professional Portfolio Project 15 | TBD | TBD | ❌ |
+| 97 | Professional Portfolio Project 16| TBD | TBD | ❌ |
+| 98 | Professional Portfolio Project 17 | TBD | TBD | ❌ |
+| 99 | Professional Portfolio Project 18 | TBD | TBD | ❌ |
+| 100 | Professional Portfolio Project 19 | TBD | TBD | ❌ |

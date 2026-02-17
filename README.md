@@ -7,7 +7,7 @@
 | No | Project Name| Technologies Used | Github Repo |  Live Site | Completed
 |-----------|-----------|-----------| -----------| -----------| -----------|
 | 1 | Social links profile | TBD| TBD | TBD | ❌ |
-| 2 | Blog preview card | TBD | [Repo](https://github.com/Kristina2025/fm2-blog-preview-card-main) | [Site](https://fm2-blog-preview-card-main.netlify.app/) | ✅ |
+| 2 | Blog preview card | HTML, CSS | [Repo](https://github.com/Kristina2025/fm2-blog-preview-card-main) | [Site](https://fm2-blog-preview-card-main.netlify.app/) | ✅ |
 | 3 | QR code component | HTML, CSS | [Repo](https://github.com/Kristina2025/fm1-qr-code-component-main) | [Site](https://fm1-qr-code-component-main.netlify.app/) | ✅  |
 | 4 | NFT preview card component | TBD | TBD | TBD | ❌ |
 | 5 | Order summary component | TBD | TBD | TBD | ❌ |

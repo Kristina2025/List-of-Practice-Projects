@@ -9,12 +9,12 @@
 | 1 | Social links profile | TBD| TBD | TBD | ❌ |
 | 2 | Blog preview card | HTML, CSS | [Repo](https://github.com/Kristina2025/fm2-blog-preview-card-main) | [Site](https://fm2-blog-preview-card-main.netlify.app/) | ✅ |
 | 3 | QR code component | HTML, CSS | [Repo](https://github.com/Kristina2025/fm1-qr-code-component-main) | [Site](https://fm1-qr-code-component-main.netlify.app/) | ✅  |
-| 4 | NFT preview card component | TBD | TBD | TBD | ❌ |
-| 5 | Order summary component | TBD | TBD | TBD | ❌ |
+| 4 | NFT preview card component | HTML, CSS | [Repo](https://github.com/Kristina2025/fm4-nft-preview-card-component-main) | [Site](https://fm4-nft-preview-card-component-main.netlify.app/) | ✅ |
+| 5 | Order summary component | HTML, CSS | [Repo](https://github.com/Kristina2025/FM7-Order-Summary-Component-Main) | [Site](https://fm7-order-summary-component-main.netlify.app/) | ✅ |
 | 6 | Results summary component | TBD | TBD | TBD | ❌ |
 | 7 | Product preview card component | TBD | TBD | TBD | ❌ |
-| 8 | Stats preview card component | TBD | TBD | TBD | ❌ |
-| 9 | 3-column preview card component | TBD | TBD | TBD | ❌ |
+| 8 | Stats preview card component | TBD | [Repo](https://github.com/Kristina2025/FM8-Stats-Preview-Card-Component) | [Site](https://fm8-stats-preview-card-component.netlify.app/) | ✅ |
+| 9 | 3-column preview card component | HTML, CSS | [Repo](https://github.com/Kristina2025/FM9-3-column-preview-card-component) | [Site](https://fm9-3-column-preview-cards-component.netlify.app/) |  ✅ |
 | 10 | Single price grid component | HTML, CSS | [Repo](https://github.com/Kristina2025/FM10-Single-Price-Grid-Component) | [Site](https://fm10-single-price-grid-component.netlify.app/) | ✅ |
 | 11 | Profile card component | TBD | TBD | TBD | ❌ |
 | 12 | Social proof section | TBD | TBD | TBD | ❌ |

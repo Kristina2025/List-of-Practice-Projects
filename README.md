@@ -15,7 +15,7 @@
 | 7 | Product preview card component | TBD | TBD | TBD | ❌ |
 | 8 | Stats preview card component | TBD | TBD | TBD | ❌ |
 | 9 | 3-column preview card component | TBD | TBD | TBD | ❌ |
-| 10 | Single price grid component | TBD | TBD | TBD | ❌ |
+| 10 | Single price grid component | HTML, CSS | [Repo](https://github.com/Kristina2025/FM10-Single-Price-Grid-Component) | [Site](https://fm10-single-price-grid-component.netlify.app/) | ✅ |
 | 11 | Profile card component | TBD | TBD | TBD | ❌ |
 | 12 | Social proof section | TBD | TBD | TBD | ❌ |
 | 13 | Four card feature section | TBD | TBD | TBD | ❌ |

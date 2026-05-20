@@ -168,9 +168,9 @@
 
 | No | Project Name| Technologies Used | Github Repo |  Completed
 |-----------|-----------|-----------| -----------| -----------|
-| 1 | Band Name Generator | TBD| TBD | ❌ |
-| 2 | Tip Calculator | TBD | TBD | ❌ |
-| 3 | Treasure Island| TBD | TBD | ❌ |
+| 1 | Band Name Generator | Python(input, printing)| [Band Name Generator](https://github.com/Kristina2025/100-Days-of-Code-Python-Projects-1-to-15/blob/main/day-1.py) | ✅ |
+| 2 | Tip Calculator | Python(arithmetic operators) | [Tip Calculator](https://github.com/Kristina2025/100-Days-of-Code-Python-Projects-1-to-15/blob/main/day-2.py) | ✅ |
+| 3 | Treasure Island| Python(conditionals) | [Kobayashi Maru Game](https://github.com/Kristina2025/100-Days-of-Code-Python-Projects-1-to-15/blob/main/day-3.py) | ✅ |
 | 4 | Rock Paper Scissors | TBD | TBD | ❌ |
 | 5 | Password Generator | TBD | TBD | ❌ |
 | 6 | Escaping the Maze | TBD | TBD | ❌ |

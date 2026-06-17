@@ -171,8 +171,8 @@
 | 1 | Band Name Generator | Python(input, printing)| [Band Name Generator](https://github.com/Kristina2025/100-Days-of-Code-Python-Projects-1-to-15/blob/main/day-1.py) | ✅ |
 | 2 | Tip Calculator | Python(arithmetic operators) | [Tip Calculator](https://github.com/Kristina2025/100-Days-of-Code-Python-Projects-1-to-15/blob/main/day-2.py) | ✅ |
 | 3 | Treasure Island| Python(conditionals) | [Kobayashi Maru Game](https://github.com/Kristina2025/100-Days-of-Code-Python-Projects-1-to-15/blob/main/day-3.py) | ✅ |
-| 4 | Rock Paper Scissors | TBD | TBD | ❌ |
-| 5 | Password Generator | TBD | TBD | ❌ |
+| 4 | Rock Paper Scissors | Python(conditionals) | [Rock Paper Scissors Game](https://github.com/Kristina2025/100-Days-of-Code-Python-Projects-1-to-15/tree/main/day-4) | ✅ |
+| 5 | Password Generator | Python(random, lists) | [Password Generator](https://github.com/Kristina2025/100-Days-of-Code-Python-Projects-1-to-15/blob/main/day-5.py) | ✅ |
 | 6 | Escaping the Maze | TBD | TBD | ❌ |
 | 7 | Hangman| TBD | TBD | ❌ |
 | 8 | Ceasar Cipher | TBD | TBD | ❌ |

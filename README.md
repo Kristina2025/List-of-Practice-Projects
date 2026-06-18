@@ -173,7 +173,7 @@
 | 3 | Treasure Island| Python(conditionals) | [Kobayashi Maru Game](https://github.com/Kristina2025/100-Days-of-Code-Python-Projects-1-to-15/blob/main/day-3.py) | ✅ |
 | 4 | Rock Paper Scissors | Python(conditionals) | [Rock Paper Scissors Game](https://github.com/Kristina2025/100-Days-of-Code-Python-Projects-1-to-15/tree/main/day-4) | ✅ |
 | 5 | Password Generator | Python(random, lists) | [Password Generator](https://github.com/Kristina2025/100-Days-of-Code-Python-Projects-1-to-15/blob/main/day-5.py) | ✅ |
-| 6 | Escaping the Maze | TBD | TBD | ❌ |
+| 6 | Escaping the Maze | Python(while loop) | [Reeborg's World Maze Problem](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) | ✅ |
 | 7 | Hangman| TBD | TBD | ❌ |
 | 8 | Ceasar Cipher | TBD | TBD | ❌ |
 | 9 | Secret Auction | TBD | TBD | ❌ |
